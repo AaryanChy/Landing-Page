@@ -113,3 +113,11 @@ em {
 cite {
   text-align: center;
 }
+
+.content {
+  display: flex;
+  background-color: #3882f6;
+  color: #e5e7eb;
+  justify-content: center;
+  align-items: center;
+}
