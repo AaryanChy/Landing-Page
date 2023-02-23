@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  font-family: roboto;
 }
 
 .topHalf {
@@ -93,4 +94,14 @@ ul li {
   align-items: center;
   text-align: center;
   width: 100px;
+}
+.quote {
+  background-color: #e5e7eb;
+  text-align: center;
+}
+
+em {
+  font-size: 36px;
+  font-style: italic;
+  color: #1f2937;
 }
