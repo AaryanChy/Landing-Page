@@ -140,3 +140,10 @@ cite {
   color: #f0faf8;
   border: 1px solid #e5e7eb;
 }
+
+.footer {
+  text-align: center;
+  background-color: #1f2937;
+  color: #e5e7eb;
+  padding: 50px;
+}
